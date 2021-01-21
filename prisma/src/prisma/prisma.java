@@ -36,7 +36,7 @@ listaarea.sort(null);
 /**y luego lo invertimos para poder mostrar de mayor a menor*/
 Collections.reverse(listaarea);
 
-System.out.println("\nAquí aparecen ordenados de mayor a menor");
+System.out.println("\nAquí aparece ordenados de mayor a menor");
 /**con los dos forreah mostraremos las áreas*/
 for (Double d: listaarea) {
 
